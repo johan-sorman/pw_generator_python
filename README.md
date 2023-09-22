@@ -5,7 +5,7 @@ A very basic password generator build in Python and compiled with pyinstaller an
   - It will copy output to clipboard for easy use for the user
   - The user can generate more password with a simple 'yes' command
 
-## Compile from source
+### Compile from source
 - Download the sourcecode. 
 - Install pyinstaller and pyperclip with `pip install <package name>`
 - in cmd or terminal of choice enter `pyinstaller --onefile <path/to/file.py>`
