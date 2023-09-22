@@ -8,4 +8,4 @@ A very basic password generator build in Python and compiled with pyinstaller an
 ## Compile from source
 - Download the sourcecode. 
 - Install pyinstaller and pyperclip with `pip install <package name>`
-- in cmd or terminal of choice enter `pyinstaller --onefile <path/to/file.py>
+- in cmd or terminal of choice enter `pyinstaller --onefile <path/to/file.py>`
